@@ -259,13 +259,10 @@ Gunakan gambar sederhana.
 ---
 
 ### Hasil yang Diharapkan
-![Hasil HTTP 2.0 dan 3.0](HTTP/Image/http1.png)
-![Hasil HTTP 2.0 dan 3.0]()
+![Hasil HTTP 2.0 dan 3.0](./Image/http1.png)
+![Hasil HTTP 2.0 dan 3.0](./Image/http2.png)
 - **HTTP/1.0**: Masing-masing objek (HTML, CSS, JS, gambar) akan membutuhkan koneksi TCP baru.
 - **HTTP/2.0**: Semua file akan dimuat secara paralel melalui satu koneksi TCP.
 - **HTTP/3.0**: Semua file dimuat paralel dengan latensi rendah menggunakan QUIC (berbasis UDP).
 
-# Contact
-jika menemukan error atau ada program yang tidak dapat dijalankan, silahkan laporkan di issue : [Laporkan](https://github.com/widiarrohman1234/widiarrohman1234.github.io/issues)
 
-email: widiarrohman1234@gmail.com
